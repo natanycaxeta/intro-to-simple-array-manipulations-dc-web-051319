@@ -52,8 +52,8 @@ end
    flat_array = private_colleges_in_newyork.flatten
  end
  
- def using_delete (instructors, "Steven") 
-  instructors = ["Josh", "Steven", "Sophie", "Steven", "Amanda", "Steven"]
-  no_offense_steven = instructors.delete("Steven")
+ def using_delete (instructors, no_offense_steven) 
+  @instructors = ["Josh", "Steven", "Sophie", "Steven", "Amanda", "Steven"]
+  @no_offense_steven = @instructors.delete("Steven")
 end
   
