@@ -37,8 +37,8 @@ def using_concat(array, element)
 end
 
 def using_insert(array, element)
-  list_of_esoteric_programming_languages = ["Ante", "ArnoldC", "Befunge", "Binary lambda calculus", "Chef", "GolfScript", "Ook!"
-  another_esoteric_language = "Malbolge"
-  new_array = list_of_esoteric_programming_languages.insert(4, another_esoteric_language)
+  @list_of_esoteric_programming_languages = ["Ante", "ArnoldC", "Befunge", "Binary lambda calculus", "Chef", "GolfScript", "Ook!"
+  @another_esoteric_language = "Malbolge"
+  @new_array = @list_of_esoteric_programming_languages.insert(4, @another_esoteric_language)
 end 
   
