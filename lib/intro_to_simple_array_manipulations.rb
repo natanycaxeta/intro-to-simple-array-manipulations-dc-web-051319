@@ -36,7 +36,7 @@ def using_concat(array, element)
   all_my_favs = my_favorite_things + more_favs
 end
 
-def using_insert
-  array.insert
+def using_insert(array, element)
+  array.insert(4)
   
   
