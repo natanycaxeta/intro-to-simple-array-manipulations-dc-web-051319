@@ -26,6 +26,7 @@ im_so_over_this_city = my_favorite_cities.shift
 end
 
 def shift_with_args(array)
-  
+ice_cream_brands = ["Blue Bell Creameries", "Ben & Jerry's", "Baskin Robbins", "Braum's", "Breyer's"]
+
   
   
