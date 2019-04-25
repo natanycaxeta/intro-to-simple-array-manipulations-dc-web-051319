@@ -15,6 +15,7 @@ great_hits_of_the_nineties = ["Baby One More Time", "Smells Like Teen Spirit", "
 deleted_string = great_hits_of_the_nineties.pop
 end
 
-def 
+def pop_with_args(array)
+  
   
   
