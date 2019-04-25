@@ -31,5 +31,6 @@ brands_removed = ice_cream_brands.shift(2)
 end
 
 def using_concat(array, element)
+my_favorite_things = ["raindrops on roses", "whiskers on kittens"]
 
   
