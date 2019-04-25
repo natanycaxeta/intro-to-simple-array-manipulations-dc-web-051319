@@ -10,7 +10,7 @@ neighborhoods_in_northwest_brooklyn = ["Brooklyn Yards", "Cadman Plaza", "Clinto
   updated_array = neighborhoods_in_northwest_brooklyn.unshift(new_neighborhood)
  end
  
-def using_pop(arr)
+def using_pop(array)
 great_hits_of_the_nineties = ["Baby One More Time", "Smells Like Teen Spirit", "Missing", "Walking On The Sun", "Hard Knock Life", "Losing My Religion"]
 deleted_string = great_hits_of_the_nineties.pop
 end
@@ -25,5 +25,6 @@ my_favorite_cities = ["Lagos", "Cape Town", "Nairobi", "San Francisco", "Gaboron
 im_so_over_this_city = my_favorite_cities.shift
 end
 
+def 
   
   
