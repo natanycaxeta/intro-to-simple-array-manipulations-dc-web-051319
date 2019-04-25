@@ -15,7 +15,7 @@ def using_pop(great_hits_of_the_nineties)
   @deleted_string = @great_hits_of_the_nineties.pop
 end
 
-def pop_with_args(array)
+def pop_with_args(chars_in_game_of_thrones)
   @chars_in_game_of_thrones = ["Danny T.", "Tyrion Lannister", "Stable Boy", "Sandor Clegane"]
   @chars_arya_killed = @chars_in_game_of_thrones.pop(2)
 end
@@ -47,7 +47,7 @@ end
    new_array = captain_planet_and_the_planeteers.uniq
  end
  
- def using_flatten()
-   
+ def using_flatten(private_colleges_in_newyork)
+   private_colleges_in_newyork = ["New York University", ["Manhattan School of Music ", "Columbia University"], "The Juilliard School", "Bard College", "Cooper Union"]
  
    
