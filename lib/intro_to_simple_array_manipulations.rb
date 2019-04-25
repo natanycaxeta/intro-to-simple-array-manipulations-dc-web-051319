@@ -30,5 +30,6 @@ ice_cream_brands = ["Blue Bell Creameries", "Ben & Jerry's", "Baskin Robbins", "
 brands_removed = ice_cream_brands.shift(2)
 end
 
-def 
+def using_concat(array, element)
+
   
