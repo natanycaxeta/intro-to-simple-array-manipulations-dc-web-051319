@@ -1,4 +1,4 @@
-def using_push (array, string)
+def using_push (countries_in_western_africa, next_country)
   countries_in_western_africa = ["Benin", "Carpe Verde", "Gambia", "Liberia", "Mali"]
   next_country = "Niger"
   countries_in_western_africa.push(next_country)
@@ -41,4 +41,6 @@ def using_insert(list_of_esoteric_programming_languages, another_esoteric_langua
   @another_esoteric_language = "Malbolge"
   @new_array = @list_of_esoteric_programming_languages.insert(4, @another_esoteric_language)
 end 
+
+def 
   
