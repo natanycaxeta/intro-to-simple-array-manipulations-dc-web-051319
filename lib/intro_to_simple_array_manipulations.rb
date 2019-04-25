@@ -37,6 +37,7 @@ def using_concat(array, element)
 end
 
 def using_insert(array, element)
+  list_of_esoteric_programming_languages = ["Ante", "ArnoldC", "Befunge", "Binary lambda calculus", "Chef", "GolfScript", "Ook!"
   
 end 
   
