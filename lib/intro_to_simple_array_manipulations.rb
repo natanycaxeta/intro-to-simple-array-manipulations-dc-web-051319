@@ -57,5 +57,6 @@ end
   no_offense_steven = instructors.delete("Steven")
 end
 
-def 
+def using_delete_at(famous_robots, integer)
+  
   
