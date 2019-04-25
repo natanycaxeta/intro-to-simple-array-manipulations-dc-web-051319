@@ -47,6 +47,7 @@ end
    new_array = captain_planet_and_the_planeteers.uniq
  end
  
- def 
+ def using_flatten()
+   
  
    
