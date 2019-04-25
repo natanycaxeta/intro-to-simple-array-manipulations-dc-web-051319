@@ -33,5 +33,6 @@ end
 def using_concat(array, element)
 my_favorite_things = ["raindrops on roses", "whiskers on kittens"]
 more_favs = ["mario kart", "flatiron school"]
-all_my_favs >> = more_favs
+all_my_favs >> more_favs = all_my_favs
+end
   
