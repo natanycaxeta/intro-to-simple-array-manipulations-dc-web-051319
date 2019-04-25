@@ -44,7 +44,7 @@ end
  
  def using_uniq (captain_planet_and_the_planeteers)
    captain_planet_and_the_planeteers = ["Captain Planet", "Gaia", "Kwame", "Gi", "Linka", "Wheeler", "Gaia"]
-   captain_planet_and_the_planeteers.using_uniq = new_array
+   captain_planet_and_the_planeteers.uniq = new_array
  end
  
  
