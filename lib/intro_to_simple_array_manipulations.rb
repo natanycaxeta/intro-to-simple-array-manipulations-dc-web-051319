@@ -4,4 +4,7 @@ next_country = "Niger"
 countries_in_western_africa.push(next_country)
 end
 
-def 
+def using_unshift (array, string)
+  
+  
+  
